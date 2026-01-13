@@ -1,0 +1,1 @@
+﻿global using Bilet16.Models;
