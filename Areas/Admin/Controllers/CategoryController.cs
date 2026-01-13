@@ -9,7 +9,7 @@ public class CategoryController(AppDbContext _context) : Controller
 {
     public IActionResult Index()
     {
-        var categorias = _context.Categories.ToList();
+        var categorias = _context.Categories.Where(c => c.IsDeleted == false).ToList();
         return View(categorias);
     }
 

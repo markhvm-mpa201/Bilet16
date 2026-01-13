@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\C#\\Code\\Bilet16\\Bilet16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AD236C4-F766-4240-B24D-294A02AA37AA}|Bilet16.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\c#\\code\\bilet16\\bilet16\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7AD236C4-F766-4240-B24D-294A02AA37AA}|Bilet16.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7AD236C4-F766-4240-B24D-294A02AA37AA}|Bilet16.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\c#\\code\\bilet16\\bilet16\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD236C4-F766-4240-B24D-294A02AA37AA}|Bilet16.csproj|solutionrelative:areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\C#\\Code\\Bilet16\\Bilet16\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\C#\\Code\\Bilet16\\Bilet16\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-13T16:16:05.929Z",
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\C#\\Code\\Bilet16\\Bilet16\\Areas\\Admin\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\TrainerController.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\C#\\Code\\Bilet16\\Bilet16\\Areas\\Admin\\Controllers\\TrainerController.cs*",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\TrainerController.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:56:46.864Z",
               "EditorCaption": ""
             }
           ]

@@ -1,1 +1,43 @@
-﻿
+﻿@model List<Trainer>
+
+<div class="mb-3">
+    <a asp-action="Create" class="btn btn-success">Create New Trainer</a>
+</div>
+
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Image</th>
+            <th scope="col">CategoryId</th>
+            <th scope="col">Category name</th>
+            <th scope="col">Status</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var trainer in Model)
+        {
+            <tr>
+                <th scope="row">@trainer.Id</th>
+                <td>@trainer.Name</td>
+                <td>@trainer.Description</td>
+                <td><img src="@trainer.Image"/></td>
+                <td>@trainer.CategoryId</td>
+                <td>@trainer.Category.Name</td>
+                <td>@trainer.IsDeleted</td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@trainer.Id" class="btn btn-warning btn-sm">Update</a>
+                    <form method="post" asp-action="Delete" asp-route-id="@trainer.Id"
+                          style="display:inline">
+                        <button type="submit" class="btn btn-danger btn-sm">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

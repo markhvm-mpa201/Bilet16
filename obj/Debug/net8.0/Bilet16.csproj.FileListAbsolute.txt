@@ -252,3 +252,5 @@ D:\Программы\C#\Code\Bilet16\Bilet16\bin\Debug\net8.0\runtimes\win-x86\
 D:\Программы\C#\Code\Bilet16\Bilet16\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\Программы\C#\Code\Bilet16\Bilet16\obj\Debug\net8.0\Bilet16.csproj.AssemblyReference.cache
 D:\Программы\C#\Code\Bilet16\Bilet16\obj\Debug\net8.0\Bilet16.csproj.Up2Date
+D:\Программы\C#\Code\Bilet16\Bilet16\obj\Debug\net8.0\Bilet16.sourcelink.json
+D:\Программы\C#\Code\Bilet16\Bilet16\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
